@@ -1,0 +1,26 @@
+.header{
+
+   background-color:#22343f;
+}
+body{
+  background-image:url("https://thumbs.gfycat.com/ConsideratePresentChameleon-size_restricted.gif"); 
+  
+}
+#msg1{
+  color:yellow;
+}
+.msgbox>h1{
+  color: yellow
+}
+.msgbox>h2{
+  color: white;
+}
+.msgbox{
+  text-align: center;
+  margin-top:50px;
+}
+
+.formdata{
+  text-align: center;
+  
+}
